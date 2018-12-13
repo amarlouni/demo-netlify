@@ -95,5 +95,6 @@ pages:
   - "6. Configuration DNS": '01-06-configuration-dns.md'
   - "7. HTTPS gratuit à la demandes": '01-07-https-gratuit-a-la-demande.md'
   - "8. Personnalisation du projet": '01-08-personalisation-du-projet.md'
+  - "9. Amar LOUNI": '01-09-amar.md'
 - '2. Autre projets avec générateur de site statique': 'autres-projets-avec-generateur-de-site-statique.md'
 - '3. Apprendre à écrire en Markdown': 'noway.md'
