@@ -32,7 +32,7 @@ theme:
   feature:
     tabs: false
   palette:
-    primary: '#f5422d'
+    primary: 'green'
     accent: 'purple'
   font:
     text: Roboto
